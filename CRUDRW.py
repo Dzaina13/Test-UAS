@@ -11,6 +11,7 @@ def create_data():
     no_rw = int(input("Masukkan NO_RW: "))
     index_kejahatan = input("Masukkan Index Kejahatan (Merah, Hijau, atau Kuning): ")
 
+    print("asuasu")
     # Validate index_kejahatan
     if index_kejahatan.lower() not in ['merah', 'hijau', 'kuning']:
         print("Index kejahatan tidak valid. Hanya diperbolehkan Merah, Hijau, atau Kuning.")
