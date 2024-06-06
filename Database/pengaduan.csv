@@ -1,0 +1,13 @@
+id_pengaduan,nama_pengadu,nama_korban,lokasi_TKP,no_rt,id_rw,deskripsi,tanggal_kejadian,waktu_kejadian,id_akun,status_pengaduan,11
+1,Kinta,Dzaky,Cibiru,4,1,Pencurian HP,2023-12-01,14:52:00,0,Belum Terverifikasi,
+2,Dhexy,Purbaya,Dekat UPI,2,2,Kehilangan helm,2023-12-08,11:08:00,1,Belum Terverifikasi,
+3,Yara,Dimas,Cibiru,3,4,Perampokan,2023-12-18,19:27:00,0,Belum Terverifikasi,
+4,Nasya,Wira,Cibiru,2,1,Perampokan,2023-12-21,12:12:00,0,Terverifikasi,
+5,Kayla,Sasa,UPI,4,3,Pencurian,2023-12-22,18:14:00,0,Belum Terverifikasi,
+6,Kinta,Kinta,UPI,4,2,Pencurian,2023-12-23,21:57:00,0,Belum Terverifikasi,
+7,Kii,Dev,Cibiru,2,2,Kehilangan dompet,2023-12-25,08:09:00,1,Belum Terverifikasi,
+8,Kinta,Dzaky,Cibiru,1,2,Kehilangan motor,2023-12-25,09:30:00,1,Belum Terverifikasi,
+9,Dhexy ,Dzaky,bandung,1,1,kehilangan sendal di mesjid,2023-04-13,03:10:00,0,Terverifikasi,
+10,Cahya,Dadang,Cileunyi,2,2,Jatoh kesolokan,2023-01-01,01:02:00,0,Belum Terverifikasi,
+11,Dadang,Dudung,Cibiru hilir,2,2,kehujanan,2023-02-03,03:02:00,0,Belum Terverifikasi,
+13,ead,awdas,d,1,2,awdasdawsdaw,0003-02-01,01:02:00,1,Belum Terverifikasi,
